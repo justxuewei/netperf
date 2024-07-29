@@ -1,0 +1,12 @@
+*.o
+Makefile
+netserver
+netperf
+config.h
+config.log
+config.status
+netperf.spec
+src/.deps/
+src/missing/.deps/
+src/netperf_version.h
+stamp-h1
